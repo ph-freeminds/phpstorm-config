@@ -2,7 +2,7 @@
   <tool name="PHPCS-FIXER" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/projects/INRAE/biosec/vendor/bin/php-cs-fixer" />
-      <option name="PARAMETERS" value="fix --dry-run" />
+      <option name="PARAMETERS" value="fix ." />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/projects/INRAE/biosec" />
     </exec>
   </tool>

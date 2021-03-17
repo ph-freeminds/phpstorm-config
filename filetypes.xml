@@ -6,6 +6,7 @@
       <mapping pattern="FetchMarketPperiodStat" type="PHP" />
       <mapping pattern="ALLOW_LOGIN_BYPASS" type="PLAIN_TEXT" />
       <mapping pattern="competition-access-rules-post" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev.local" type="PLAIN_TEXT" />
       <mapping pattern="cumulative_limit_search_by_wallet" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
